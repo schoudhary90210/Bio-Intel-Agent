@@ -1,6 +1,9 @@
 # Bio-Intelligence Automation Engine
 
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue) ![Redis](https://img.shields.io/badge/Redis-Caching-red)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Enabled-blue)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-Caching-red)](https://redis.io/)
 
 A high-throughput data pipeline designed to automate the ingestion, summarization, and distribution of medical research. This engine monitors PubMed for specific biological markers, processes abstracts using LLMs, and delivers actionable intelligence to communication channels like Slack.
 
