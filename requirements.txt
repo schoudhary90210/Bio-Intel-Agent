@@ -7,5 +7,6 @@ pydantic-settings==2.1.0
 python-dotenv==1.0.1
 biopython==1.83
 requests==2.31.0
-# Added for testing
 pytest==7.4.0
+# Optional: local LLM via ollama (install only if using ollama backend)
+# ollama>=0.1.0
